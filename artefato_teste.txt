@@ -1,7 +1,1 @@
-Requisitos iniciais:
-1. REQ-001 - O sistema deve permitir o cadastro de usuários.
-2. REQ-002 - O sistema deve armazenar versões dos artefatos.
-3. REQ-003 - Deve existir controle de acesso por níveis.
-4. REQ-004 - Deve ser possível exportar relatórios de versionamento.
-
-Observações: Documento de teste para iniciar o repositório de artefatos.
+Repositório para guardar artefatos do projeto
